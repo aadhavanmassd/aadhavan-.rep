@@ -1,48 +1,123 @@
 <!DOCTYPE html>
-
- 
-
 <html>
-
- 
-
 <head>
-
-    <title>
-
-        Simple web Development Template
-
-    </title>
-
+    <title>complaint portal </title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: rgb(236, 96, 15);
+            color: rgb(19, 16, 16);
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 36px;
+            text-transform: uppercase;
+        }
+        nav {
+            background-color: #02a884;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            display: inline-block;
+            color: rgb(255, 240, 240);
+            padding: 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            background-color: rgb(197, 37, 37);
+            color: #fff;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        section h2 {
+            font-size: 24px;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+        }
+        section p {
+            font-size: 18px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+    </style>
 </head>
+<body>
+    <header>
+        <h1>GOVERMENT OF INDIA </h1>
+    </header>
+    <nav>
+        <a href="about.html">about</a>
+        <a href ="other schemes.html">other schemes</a>
+        <a href = "#">Sign Up</a>
+        <a href="blog.html">blog</a>
+        <a href="complaint.html">complaint</a>
+       
+    </nav>
+    <section>
+        <h2> compliaint portal</h2>
+        
 
- 
+    </section>
+    <!DOCTYPE html>
+<html>
+        <head>
+<title>Home</title>
+        </head>
 
 <body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
 
-    <nav class="navbar background">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cybersecurity Complaint Portal</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
 
-        <ul class="nav-list">
+    header {
+      background-color: rgb(247, 139, 39);
+      padding: 20px;
+      color: #fff;
+      text-align: center;
+    }
 
-            <div class="logo">
+    h1 {
+      margin: 0;
+    }
 
-                <img src="logo.png">
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 20px;
+    }
 
-            </div>
+    .content {
+      margin-top: 30px;
+    }
 
-            <li><a href="#web">Web Technology</a></li>
+    .form-group {
+      margin-bottom: 20px;
+    }
 
-            <li><a href="#program">C Programming</a></li>
-
-            <li><a href="#course">Courses</a></li>
-
-        </ul>
-
- 
-
-        <div class="rightNav">
-
-            <input type="text" name="search" id="search">
-
-            <button class>
-
+<article><centre><p>this is an complaint portal here you can file a complaint with detailed description and your complain in this portal  ,this website is goverment portal so your details and data would be safe</p><center>  
+</article>
+</head>
+<p> 
+</body>
+</html>
